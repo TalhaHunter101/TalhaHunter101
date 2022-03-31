@@ -31,8 +31,8 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 - 💬 &nbsp; Ask me about anything [here](#)! I am happy to help.
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
 - 📫 &nbsp; How to reach me: [Website](https://talha-shafeeq.netlify.app/) or talha.shafeeq.ts@gmail.com.
-  - 📝 &nbsp; Checkout my [Resume](#). (Haven't update it in a while, but here you go) -->
-  <!-- - 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 📝 &nbsp; Checkout my [Resume](https://github.com/TalhaHunter101/TalhaHunter101/blob/main/TalhaShafeeq-CV.pdf). (Haven't update it in a while, but here you go)
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
 
 ### My Absolute Favorites:
 
@@ -118,14 +118,14 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TalhaHunter101/ExteriorTour?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/TalhaHunter101/ExteriorTour?style=flat-square"/></td> 
       </tr>
-      <!-- <tr>
-	      <td><a href="https://github.com/bhatvikrant/bhatvikrant"><b>🤓 bhatvikrant</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/bhatvikrant/bhatvikrant?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/bhatvikrant/bhatvikrant?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/bhatvikrant/bhatvikrant?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/bhatvikrant/bhatvikrant?style=flat-square"/></td>
+      <tr>
+	      <td><a href="https://github.com/TalhaHunter101/TalhaHunter101"><b>🤓Talha SHafeeq</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/TalhaHunter101/TalhaHunter101?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/TalhaHunter101/TalhaHunter101?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/TalhaHunter101/TalhaHunter101?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TalhaHunter101/TalhaHunter101?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr> -->
+      </tr>
     </tbody>
   </table>
   <br />
