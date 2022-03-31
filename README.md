@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=github.com/TalhaHunter101&style=flat-square&color=0088cc)
 
-<img align="right" width="100" alt="" src="assets/pro.png" />
+<img align="right" width="250" alt="" src="assets/pro.png" />
 
 Currently working at [EMPG LABS](https://www.empglabs.com/). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ & Mobile app 📲 Development along with Blockchain and cloud.
 
