@@ -7,9 +7,11 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100001246222554)
 [![Instagram Badge](https://img.shields.io/badge/instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://vikrantbhat.hashnode.dev/)
 
+<img align="center" width="350" alt="" src="assets/pro.png" />
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=github.com/TalhaHunter101&style=flat-square&color=0088cc)
 
-<img align="right" width="250" alt="" src="assets/pro.png" />
+
 
 Currently working at [EMPG LABS](https://www.empglabs.com/). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ & Mobile app 📲 Development along with Blockchain and cloud.
 
@@ -19,7 +21,7 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 
 [![Portfolio](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://talha-shafeeq.netlify.app/)
 
-<img align="right" width="375" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
+<img align="right" width="350" alt="" src="https://media.giphy.com/media/QN6NnhbgfOpoI/giphy.gif" />
 
 ### Talking about Personal Stuff:
 
