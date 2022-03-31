@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100001246222554)
 [![Instagram Badge](https://img.shields.io/badge/instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://vikrantbhat.hashnode.dev/)
 
-<img align="center" width="350" alt="" src="assets/pro.png" />
+<img align="right" width="350" alt="" src="assets/pro.png" />
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=github.com/TalhaHunter101&style=flat-square&color=0088cc)
 
