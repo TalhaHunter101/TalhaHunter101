@@ -1,0 +1,44 @@
+name: Talha Shafeeq
+title: 🌊 Talha's GitHub Stack
+template: classic
+base: header, activity, community, repositories, metadata
+config_timezone: Asia/Karachi
+config_display: large
+config_animations: yes
+config_twemoji: yes
+
+# Blue theme
+config_color_title: 58A6FF
+config_color_text: C9D1D9
+config_color_icon: 1F6FEB
+config_color_snippet: 388BFD
+
+# Activity & habits
+plugin_activity: yes
+plugin_activity_limit: 5
+plugin_activity_timestamps: yes
+plugin_calendar: yes
+plugin_habits: yes
+plugin_habits_charts: yes
+plugin_habits_days: 14
+plugin_habits_facts: yes
+plugin_habits_from: 200
+
+# Profile insights
+plugin_introfollower: yes
+plugin_followup: yes
+plugin_achievements: yes
+plugin_achievements_threshold: C
+plugin_notable: yes
+plugin_stars: yes
+plugin_gists: yes
+plugin_discussions: yes
+
+# Code
+plugin_languages: yes
+plugin_languages_limit: 8
+plugin_languages_threshold: 2%
+plugin_languages_colors: github
+plugin_languages_sections: most-used
+plugin_lines: yes
+plugin_repositories: yes

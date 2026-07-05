@@ -92,6 +92,37 @@ I build **high-performance backends**, **real-time systems**, and **AI-powered p
 
 ---
 
+## 🌊 GitHub Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,nestjs,django,react,nextjs,aws,gcp,docker,postgres,mongodb,redis,git,githubactions,vite,tailwind&theme=dark&perline=10" alt="Tech skill icons" />
+
+<br /><br />
+
+<table>
+<tr>
+<td valign="top" width="52%">
+<img width="100%" alt="GitHub Metrics — activity, languages, habits" src="https://raw.githubusercontent.com/TalhaHunter101/TalhaHunter101/main/github-metrics.svg" />
+</td>
+<td valign="top" width="48%">
+<img width="100%" alt="Full-year contribution isocalendar" src="https://raw.githubusercontent.com/TalhaHunter101/TalhaHunter101/main/metrics.plugin.isocalendar.fullyear.svg" />
+</td>
+</tr>
+</table>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TalhaHunter101/TalhaHunter101/output-3d-contrib/profile-blue-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TalhaHunter101/TalhaHunter101/output-3d-contrib/profile-blue-light.svg" />
+  <img width="100%" alt="3D GitHub contribution chart" src="https://raw.githubusercontent.com/TalhaHunter101/TalhaHunter101/output-3d-contrib/profile-blue-dual.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🐍 Contribution Graph
 
 <picture>
@@ -102,16 +133,17 @@ I build **high-performance backends**, **real-time systems**, and **AI-powered p
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TalhaHunter101&show_icons=true&theme=cobalt&hide_border=false&border_color=1F6FEB&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=1F6FEB" height="170" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaHunter101&theme=cobalt&hide_border=false&border=1F6FEB&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" height="170" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=TalhaHunter101&show_icons=true&theme=cobalt&hide_border=false&border_color=1F6FEB&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=1F6FEB" height="165" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaHunter101&theme=cobalt&hide_border=false&border=1F6FEB&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub streak" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaHunter101&layout=compact&theme=cobalt&hide_border=false&border_color=1F6FEB&langs_count=8&title_color=58A6FF" height="170" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaHunter101&layout=compact&theme=cobalt&hide_border=false&border_color=1F6FEB&langs_count=8&title_color=58A6FF" height="165" alt="Top languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=TalhaHunter101&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" height="165" alt="GitHub trophies" />
 
 </div>
 
