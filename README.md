@@ -137,12 +137,12 @@ I build **high-performance backends**, **real-time systems**, and **AI-powered p
 
 <div align="center">
 
-<img src="https://github-readme-stats-card.vercel.app/api?username=TalhaHunter101&show_icons=true&theme=cobalt&hide_border=false&border_color=1F6FEB&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=1F6FEB" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TalhaHunter101&show_icons=true&theme=cobalt&hide_border=false&border_color=1F6FEB&title_color=58A6FF&icon_color=1F6FEB" height="165" alt="GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaHunter101&theme=cobalt&hide_border=false&border=1F6FEB&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub streak" />
 
 <br />
 
-<img src="https://github-readme-stats-card.vercel.app/api/top-langs/?username=TalhaHunter101&layout=compact&theme=cobalt&hide_border=false&border_color=1F6FEB&langs_count=8&title_color=58A6FF" height="165" alt="Top languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TalhaHunter101&layout=compact&theme=cobalt&hide_border=false&border_color=1F6FEB&langs_count=8&title_color=58A6FF" height="165" alt="Top languages" />
 
 </div>
 
@@ -173,12 +173,44 @@ I build **high-performance backends**, **real-time systems**, and **AI-powered p
 
 <div align="center">
 
+<table>
+<tr>
+<td width="420" align="center" valign="top">
+
 <a href="https://github.com/TalhaHunter101/Hidayah-AI">
-  <img src="https://github-readme-stats-card.vercel.app/api/pin/?username=TalhaHunter101&repo=Hidayah-AI&theme=cobalt&hide_border=false&border_color=1F6FEB&title_color=58A6FF" alt="Hidayah AI" />
+  <img src="https://img.shields.io/badge/Hidayah_AI-Islamic_Research_Assistant-1F6FEB?style=for-the-badge&logo=google&logoColor=white" alt="Hidayah AI" />
 </a>
+
+<br /><br />
+
+[![Stars](https://img.shields.io/github/stars/TalhaHunter101/Hidayah-AI?style=flat-square&label=stars&color=0D1117&logo=github)](https://github.com/TalhaHunter101/Hidayah-AI)
+[![Forks](https://img.shields.io/github/forks/TalhaHunter101/Hidayah-AI?style=flat-square&label=forks&color=0D1117&logo=github)](https://github.com/TalhaHunter101/Hidayah-AI)
+[![Language](https://img.shields.io/github/languages/top/TalhaHunter101/Hidayah-AI?style=flat-square&color=1F6FEB&logo=python&logoColor=white)](https://github.com/TalhaHunter101/Hidayah-AI)
+
+<br /><br />
+
+<sub>Gemini reasoning · Tavily search · RAG pipelines</sub>
+
+</td>
+<td width="420" align="center" valign="top">
+
 <a href="https://github.com/TalhaHunter101/NestForge">
-  <img src="https://github-readme-stats-card.vercel.app/api/pin/?username=TalhaHunter101&repo=NestForge&theme=cobalt&hide_border=false&border_color=1F6FEB&title_color=58A6FF" alt="NestForge" />
+  <img src="https://img.shields.io/badge/NestForge-NestJS_Boilerplate-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestForge" />
 </a>
+
+<br /><br />
+
+[![Stars](https://img.shields.io/github/stars/TalhaHunter101/NestForge?style=flat-square&label=stars&color=0D1117&logo=github)](https://github.com/TalhaHunter101/NestForge)
+[![Forks](https://img.shields.io/github/forks/TalhaHunter101/NestForge?style=flat-square&label=forks&color=0D1117&logo=github)](https://github.com/TalhaHunter101/NestForge)
+[![Language](https://img.shields.io/github/languages/top/TalhaHunter101/NestForge?style=flat-square&color=1F6FEB&logo=typescript&logoColor=white)](https://github.com/TalhaHunter101/NestForge)
+
+<br /><br />
+
+<sub>AI CRUD generators · Auth · File uploads · Modules</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -234,7 +266,7 @@ I build **high-performance backends**, **real-time systems**, and **AI-powered p
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=TalhaHunter101&color=1F6FEB&style=for-the-badge)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=TalhaHunter101.TalhaHunter101&left_color=1F6FEB&right_color=0D1117&label=Profile%20Views)](https://github.com/TalhaHunter101)
 
 **Thanks for visiting — let's build something great together!**
 
