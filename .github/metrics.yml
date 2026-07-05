@@ -4,7 +4,7 @@ template: classic
 base: header, activity, community, repositories, metadata
 config_timezone: Asia/Karachi
 config_display: large
-config_animations: yes
+config_animations: no
 config_twemoji: yes
 
 # Blue theme

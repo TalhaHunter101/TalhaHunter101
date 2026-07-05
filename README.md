@@ -103,10 +103,10 @@ I build **high-performance backends**, **real-time systems**, and **AI-powered p
 <table>
 <tr>
 <td valign="top" width="52%">
-<img width="100%" alt="GitHub Metrics — activity, languages, habits" src="https://raw.githubusercontent.com/TalhaHunter101/TalhaHunter101/main/github-metrics.svg" />
+<img width="100%" alt="GitHub Metrics — activity, languages, habits" src="./github-metrics.svg" />
 </td>
 <td valign="top" width="48%">
-<img width="100%" alt="Full-year contribution isocalendar" src="https://raw.githubusercontent.com/TalhaHunter101/TalhaHunter101/main/metrics.plugin.isocalendar.fullyear.svg" />
+<img width="100%" alt="Full-year contribution isocalendar" src="./metrics.plugin.isocalendar.fullyear.svg" />
 </td>
 </tr>
 </table>
@@ -137,13 +137,12 @@ I build **high-performance backends**, **real-time systems**, and **AI-powered p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TalhaHunter101&show_icons=true&theme=cobalt&hide_border=false&border_color=1F6FEB&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=1F6FEB" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-card.vercel.app/api?username=TalhaHunter101&show_icons=true&theme=cobalt&hide_border=false&border_color=1F6FEB&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=1F6FEB" height="165" alt="GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaHunter101&theme=cobalt&hide_border=false&border=1F6FEB&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub streak" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaHunter101&layout=compact&theme=cobalt&hide_border=false&border_color=1F6FEB&langs_count=8&title_color=58A6FF" height="165" alt="Top languages" />
-<img src="https://github-profile-trophy.vercel.app/?username=TalhaHunter101&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" height="165" alt="GitHub trophies" />
+<img src="https://github-readme-stats-card.vercel.app/api/top-langs/?username=TalhaHunter101&layout=compact&theme=cobalt&hide_border=false&border_color=1F6FEB&langs_count=8&title_color=58A6FF" height="165" alt="Top languages" />
 
 </div>
 
@@ -175,10 +174,10 @@ I build **high-performance backends**, **real-time systems**, and **AI-powered p
 <div align="center">
 
 <a href="https://github.com/TalhaHunter101/Hidayah-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalhaHunter101&repo=Hidayah-AI&theme=cobalt&hide_border=false&border_color=1F6FEB&title_color=58A6FF" alt="Hidayah AI" />
+  <img src="https://github-readme-stats-card.vercel.app/api/pin/?username=TalhaHunter101&repo=Hidayah-AI&theme=cobalt&hide_border=false&border_color=1F6FEB&title_color=58A6FF" alt="Hidayah AI" />
 </a>
 <a href="https://github.com/TalhaHunter101/NestForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TalhaHunter101&repo=NestForge&theme=cobalt&hide_border=false&border_color=1F6FEB&title_color=58A6FF" alt="NestForge" />
+  <img src="https://github-readme-stats-card.vercel.app/api/pin/?username=TalhaHunter101&repo=NestForge&theme=cobalt&hide_border=false&border_color=1F6FEB&title_color=58A6FF" alt="NestForge" />
 </a>
 
 </div>
